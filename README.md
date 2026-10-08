@@ -56,5 +56,5 @@ I'm open to learning different technologies, working with different areas of sof
 
 ## 📫 Connect with me
 
-- **LinkedIn:** [Willian Campos](https://www.linkedin.com/)
+- **LinkedIn:** [Willian Campos](https://www.linkedin.com/in/willian-campos-764b4331b/)
 - **GitHub:** [@w11k3](https://github.com/w11k3)
